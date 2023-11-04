@@ -6,5 +6,5 @@ The entire code is based on this cryptocurrency
 To make it work you just need to add yout API key and your secret-key
 
 refs:  
-[MEXC website](https://www.mexc.com/)
+[MEXC website](https://www.mexc.com/)  
 [MEXC API docs](https://mexcdevelop.github.io/apidocs/spot_v3_en/)
